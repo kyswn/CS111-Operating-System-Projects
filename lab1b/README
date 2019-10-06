@@ -1,0 +1,24 @@
+#NAME: Yining Wang
+#EMAIL: wangyining@g.ucla.edu
+#ID: 504983099
+#SLIPDAYS: 2
+
+the tarball includes:
+lab1b-client.c: the c source code for client
+lab1b-server.c: the c source code for server
+README
+Makefile, which includes:
+	client: compile the client c source code
+	server: compile the server c source code
+	default: compile both c sources codes
+	clean: remove everything producded by make
+	dist: build the tarball
+	
+I used the code provided in the socket tutorial
+http://www.cs.rpi.edu/~moorthy/Courses/os98/Pgms/socket.html
+http://www.cs.rpi.edu/~moorthy/Courses/os98/Pgms/server.c
+http://www.cs.rpi.edu/~moorthy/Courses/os98/Pgms/client.c
+I also used the code provided in TA Zhaoxing Bu's slides for the compression part
+I also heavily rely my code on TA Alexendar Tiared's slides 
+
+this is a ridiculously hard project that requires absolute attention on details.

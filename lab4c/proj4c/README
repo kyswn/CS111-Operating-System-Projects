@@ -1,0 +1,9 @@
+NAME: Yining Wang
+EMAIL: wangyining@g.ucla.edu
+ID: 504983099
+
+my tarball includes:
+lab4c_tcp.c : the c source file for tcp
+lab4c_tls.c: the c source file for tls
+Makefile
+README

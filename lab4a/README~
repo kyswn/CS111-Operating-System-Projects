@@ -1,0 +1,12 @@
+NAME: Yining Wang
+EMAIL: wangyining@g.ucla.edu
+ID: 504983099
+
+
+my_beaglebone.jpg: selfie of me holding the beaglebone
+connected.png:  from a USB terminal command session connected to my system, showing that I gave it a name and configured network access.
+copy.png: using pscp to transfer the file
+build_run.png: running the helloworld c program
+git.png: the screeshot of the error I got when using git clone
+Makefile
+README

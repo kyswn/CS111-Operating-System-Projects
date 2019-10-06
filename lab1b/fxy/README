@@ -1,0 +1,20 @@
+# NAME: Xuanyu Fang
+# EMAIL: fangmax98@g.ucla.edu
+# ID: 504933797
+# SLIPDAYS:1
+lab1b-client.c: The client end of the lab. It accepts a necessary --port argument, an optional --compression  which will determine whether the data sent to socket will be compressed; a --log=filename option.
+
+lab1b-server.c: The server end of the lab. --port used to configure the port. And --compress will dtermine if the data sent to network socket will be compressed.
+
+Makefile: 
+make, clean, and dist option
+Make: to make a tarball
+make clean : clean the tarball and executable
+make dist: make the tarball for submission
+
+References:
+http://www.cs.rpi.edu/~moorthy/Courses/os98/Pgms/socket.html
+
+https://www.zlib.net/zlib_how.html
+
+http://man7.org/linux/man-pages/man7/socket.7.html

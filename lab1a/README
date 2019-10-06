@@ -1,0 +1,10 @@
+NAME: Yining Wang
+EMAIL: wangyining@g.ucla.edu
+ID: 504983099
+
+tarball including:
+lab1a.c: the c source file
+README
+Makefile
+
+It works in most cases I can think of, but there might be a lot of corner cases that I din't not consider.
